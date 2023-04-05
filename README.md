@@ -8,4 +8,5 @@ Art school alumna studying software engineering at Codam, Amsterdam's 42 ✌️ 
 - 🕊 How to reach me: LinkedIn / Instagram (linked on my profile)
 - 🫦 Pronouns: she/her
 - 😼 Fun fact: Apparently cats can't taste sweetness
+- 🐳 What's with the whale? Cetus for the win
 
