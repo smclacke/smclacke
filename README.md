@@ -2,7 +2,7 @@
 
 Art school alumna studying software engineering at Codam, Amsterdam's 42 ✌️ 💫
 
-- 👩‍💻 I’m currently working on push_swap, a sorting algorithum project
+- 👩‍💻 I’m currently working on pipex, a pipe handling project
 - 🧠 I’m learning C and C++
 - 💫 I’m looking to collaborate on creative projects
 - 🕊 How to reach me: LinkedIn / Instagram (linked on my profile)
